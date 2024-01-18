@@ -45,12 +45,14 @@ Here are some ideas to get you started:
 <a href="https://www.mathworks.com/" target="_blank"><img src="./images/Languages-Tools-images/Matlab.png" alt="MATLAB" width="40" height="40"/></a>
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank"><img src="./images/Languages-Tools-images/Git.png" alt="Git" width="40" height="40"/></a>
-<!-- Git Hub-->
-<a href="https://github.com/" target="_blank"><img src="./images/Languages-Tools-images/Github.png" alt="GitHub" width="40" height="40"/></a>
 <!-- LaTeX -->
 <a href="https://www.latex-project.org/" target="_blank"><img src="./images/Languages-Tools-images/latex.png" alt="LaTeX" width="40" height="40"/></a>
 <!-- Office -->
 <a href="https://www.office.com/" target="_blank"><img src="./images/Languages-Tools-images/office.png" alt="Office" width="40" height="40"/></a>
+<!-- stm32 -->
+<a href="https://www.st.com/" target="_blank"><img src="./images/Languages-Tools-images/st.png" alt="stm32" width="40" height="40"/></a>
+<!-- avr -->
+<a href="https://www.office.com/" target="_blank"><img src="./images/Languages-Tools-images/avr.png" alt="avr" width="40" height="40"/></a>
 </div>
 
 <!-- Add space -->
