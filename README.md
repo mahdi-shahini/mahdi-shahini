@@ -59,11 +59,3 @@ Here are some ideas to get you started:
 <div>
   <br>
 </div>
-
-
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdi-shahini&show_icons=true&locale=en&layout=compact" alt="mahdi-shahini" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdi-shahini&show_icons=true&locale=en" alt="mahdi-shahini" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi-shahini&" alt="mahdi-shahini" /></p>
