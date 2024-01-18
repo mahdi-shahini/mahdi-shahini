@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋🏻, I'm Mahdi Shahini</h1>
-<h3 align="center"> An Electrical Engineering Sturdent Majoring Control 🧑🏻‍💻 </h3>
+<h3 align="center"> An Electrical Engineering Student Majoring Control 🧑🏻‍💻 </h3>
 
 - 🌱 I’m currently learning Control Theory & Robotics , RL & DeepRL 🦾 + 🧠
-- 📚 I put the material of some courses that I have passed in B.Sc. hear <a href="https://github.com/B-Sc-Courses"> (B.Sc. Courses Organization) </a>.
+- 📚 I put the material of some courses that I have passed in B.Sc. here <a href="https://github.com/B-Sc-Courses"> (B.Sc. Courses Organization) </a>.
 - 📫 How to reach me: **mahdishahini2001@gmail.com**
 
 <p align="left">
