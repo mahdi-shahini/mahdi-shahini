@@ -29,30 +29,30 @@ Here are some ideas to get you started:
 <div align="left">
 <!-- OS -->
 <!-- bash -->
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="./images/Languages-Tools-images/Bash.svg" alt="Bash" width="40" height="40"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="./.images/Languages-Tools-images/Bash.svg" alt="Bash" width="40" height="40"/></a>
 <!-- linux -->
-<a href="https://www.linux.org/" target="_blank"><img src="./images/Languages-Tools-images/Linux.svg" alt="Linux" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank"><img src="./.images/Languages-Tools-images/Linux.svg" alt="Linux" width="40" height="40"/></a>
 <!-- Languages -->
 <!-- python -->
-<a href="https://www.python.org" target="_blank"><img src="./images/Languages-Tools-images/Python.png" alt="Python" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank"><img src="./.images/Languages-Tools-images/Python.png" alt="Python" width="40" height="40"/></a>
 <!-- TensorFlow -->
-<a href="https://www.tensorflow.org/" target="_blank"><img src="./images/Languages-Tools-images/tf.png" alt="TF" width="40" height="40"/></a>  
+<a href="https://www.tensorflow.org/" target="_blank"><img src="./.images/Languages-Tools-images/tf.png" alt="TF" width="40" height="40"/></a>  
 <!-- OpenCV -->
-<a href="https://opencv.org/" target="_blank"><img src="./images/Languages-Tools-images/opencv.png" alt="OpenCV" width="40" height="40"/></a>  
+<a href="https://opencv.org/" target="_blank"><img src="./.images/Languages-Tools-images/opencv.png" alt="OpenCV" width="40" height="40"/></a>  
 <!-- C -->
-<a href="https://www.w3schools.com/c/" target="_blank"><img src="./images/Languages-Tools-images/C.png" alt="C" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/c/" target="_blank"><img src="./.images/Languages-Tools-images/C.png" alt="C" width="40" height="40"/></a>
 <!-- MATLAB -->
-<a href="https://www.mathworks.com/" target="_blank"><img src="./images/Languages-Tools-images/Matlab.png" alt="MATLAB" width="40" height="40"/></a>
+<a href="https://www.mathworks.com/" target="_blank"><img src="./.images/Languages-Tools-images/Matlab.png" alt="MATLAB" width="40" height="40"/></a>
 <!-- Git -->
-<a href="https://git-scm.com/" target="_blank"><img src="./images/Languages-Tools-images/Git.png" alt="Git" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="./.images/Languages-Tools-images/Git.png" alt="Git" width="40" height="40"/></a>
 <!-- LaTeX -->
-<a href="https://www.latex-project.org/" target="_blank"><img src="./images/Languages-Tools-images/latex.png" alt="LaTeX" width="40" height="40"/></a>
+<a href="https://www.latex-project.org/" target="_blank"><img src="./.images/Languages-Tools-images/latex.png" alt="LaTeX" width="40" height="40"/></a>
 <!-- Office -->
-<a href="https://www.office.com/" target="_blank"><img src="./images/Languages-Tools-images/office.png" alt="Office" width="40" height="40"/></a>
+<a href="https://www.office.com/" target="_blank"><img src="./.images/Languages-Tools-images/office.png" alt="Office" width="40" height="40"/></a>
 <!-- stm32 -->
-<a href="https://www.st.com/" target="_blank"><img src="./images/Languages-Tools-images/st.png" alt="stm32" width="40" height="40"/></a>
+<a href="https://www.st.com/" target="_blank"><img src="./.images/Languages-Tools-images/st.png" alt="stm32" width="40" height="40"/></a>
 <!-- avr -->
-<a href="https://www.office.com/" target="_blank"><img src="./images/Languages-Tools-images/avr.png" alt="avr" width="40" height="40"/></a>
+<a href="https://www.office.com/" target="_blank"><img src="./.images/Languages-Tools-images/avr.png" alt="avr" width="40" height="40"/></a>
 </div>
 
 <!-- Add space -->
