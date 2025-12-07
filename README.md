@@ -41,5 +41,5 @@ Here are the tools and frameworks I leverage for research and prototyping:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdi-shahini&show_icons=true&theme=minimal&hide_border=true" alt="Mahdi's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi-shahini&theme=minimal&hide_border=true" alt="GitHub Streak" />
 </p>
