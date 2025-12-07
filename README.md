@@ -1,62 +1,45 @@
-<!-- ### Hi there 👋
--->
-<!--
-**mahdi-shahini/mahdi-shahini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Mahdi Shahini 👋</h1>
+<h3 align="center">M.S. Candidate in ECE (Control & Learning) at <a href="https://ut.ac.ir/en#" target="_blank">UT</a> 🏛️</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋🏻, I'm Mahdi Shahini</h1>
-<h3 align="center"> An Electrical Engineering Student Majoring in Control 🧑🏻‍💻 </h3>
-
-- 🌱 I’m currently learning Control Theory & Robotics, RL & DeepRL 🦾 + 🧠
-- 📚 I put the material of some courses that I have passed here <a href="https://github.com/B-Sc-Courses"> (B.Sc. Courses Organization) </a>.
-- 📫 How to reach me: **mahdishahini2001@gmail.com**
-
-<p align="left">
-  
+<p align="center">
+  <a href="mailto:mahdishahini2001@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail"></a>
+  <a href="https://linkedin.com/in/mahdi-shahini"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
-<!-- Tools and Languages -->
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-<!-- OS -->
-<!-- bash -->
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="./.images/Languages-Tools-images/Bash.svg" alt="Bash" width="40" height="40"/></a>
-<!-- linux -->
-<a href="https://www.linux.org/" target="_blank"><img src="./.images/Languages-Tools-images/Linux.svg" alt="Linux" width="40" height="40"/></a>
-<!-- Languages -->
-<!-- python -->
-<a href="https://www.python.org" target="_blank"><img src="./.images/Languages-Tools-images/Python.png" alt="Python" width="40" height="40"/></a>
-<!-- TensorFlow -->
-<a href="https://www.tensorflow.org/" target="_blank"><img src="./.images/Languages-Tools-images/tf.png" alt="TF" width="40" height="40"/></a>  
-<!-- OpenCV -->
-<a href="https://opencv.org/" target="_blank"><img src="./.images/Languages-Tools-images/opencv.png" alt="OpenCV" width="40" height="40"/></a>  
-<!-- C -->
-<a href="https://www.w3schools.com/c/" target="_blank"><img src="./.images/Languages-Tools-images/C.png" alt="C" width="40" height="40"/></a>
-<!-- MATLAB -->
-<a href="https://www.mathworks.com/" target="_blank"><img src="./.images/Languages-Tools-images/Matlab.png" alt="MATLAB" width="40" height="40"/></a>
-<!-- Git -->
-<a href="https://git-scm.com/" target="_blank"><img src="./.images/Languages-Tools-images/Git.png" alt="Git" width="40" height="40"/></a>
-<!-- LaTeX -->
-<a href="https://www.latex-project.org/" target="_blank"><img src="./.images/Languages-Tools-images/latex.png" alt="LaTeX" width="40" height="40"/></a>
-<!-- Office -->
-<a href="https://www.office.com/" target="_blank"><img src="./.images/Languages-Tools-images/office.png" alt="Office" width="40" height="40"/></a>
-<!-- stm32 -->
-<a href="https://www.st.com/" target="_blank"><img src="./.images/Languages-Tools-images/st.png" alt="stm32" width="40" height="40"/></a>
-<!-- avr -->
-<a href="https://www.office.com/" target="_blank"><img src="./.images/Languages-Tools-images/avr.png" alt="avr" width="40" height="40"/></a>
-</div>
+<br>
 
-<!-- Add space -->
-<div>
-  <br>
-</div>
+### 🚀 About Me
+
+I am currently a Graduate Researcher at the **University of Tehran (UT)**, Department of Electrical and Computer Engineering (ECE). My research lies at the intersection of **Control Theory**, **Optimization**, and **Machine Learning**.
+
+I am particularly interested in:
+* **Robust & Optimal Control** (MPC, LQR/LQG)
+* **Reinforcement Learning** (Deep RL, Safe RL)
+* **Robotics** (Dynamics, Path Planning)
+
+---
+
+### 🎓 Education
+
+* **M.S. in Electrical Engineering & Computer Science (EECS)** *Massachusetts Institute of Technology (MIT)* | *2025 - Present*
+    
+* **B.Sc. in Electrical Engineering** *Amir Kabir University of Technology (Tehran Polytechnic)* | *2020 - 2024*
+
+---
+
+### 🛠️ Technical Stack
+
+Here are the tools and frameworks I leverage for research and prototyping:
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Control & AI** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=flat&logo=mathworks&logoColor=white) ![Simulink](https://img.shields.io/badge/-Simulink-FA4D08?style=flat&logo=mathworks&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) |
+| **Embedded Systems** | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![ARM](https://img.shields.io/badge/-ARM-0091BD?style=flat&logo=arm&logoColor=white) ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white) ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat&logo=espressif&logoColor=white) |
+| **Hardware Design** | ![Altium](https://img.shields.io/badge/-Altium_Designer-A5915F?style=flat&logo=altiumdesigner&logoColor=white) ![SolidWorks](https://img.shields.io/badge/-SolidWorks-D32D27?style=flat&logo=solidworks&logoColor=white) |
+| **Dev Tools** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahdi-shahini&show_icons=true&theme=minimal&hide_border=true" alt="Mahdi's Stats" />
+</p>
