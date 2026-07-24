@@ -21,7 +21,7 @@ I am particularly interested in:
 
 ### 🎓 Education
 
-* **M.S. in Electrical Engineering & Computer Science (EECS)** *Massachusetts Institute of Technology (MIT)* | *2025 - Present*
+* **M.S. in Electrical Engineering & Computer Science (EECS)** *University of Tehran(UT)* | *2025 - Present*
     
 * **B.Sc. in Electrical Engineering** *Amir Kabir University of Technology (Tehran Polytechnic)* | *2020 - 2024*
 
